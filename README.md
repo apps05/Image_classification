@@ -60,3 +60,4 @@ python train_model.py # trains and saves student_model.pth
 - Model size: 4.14 MB
 - Validation accuracy: 95.03%
 - Robust to illumination changes and partial occlusions via data augmentation
+- https://drive.google.com/file/d/1cJQlT2X2LUG6iNlRNLyjaA62CWSbvWNL/view?usp=sharing
